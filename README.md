@@ -1,4 +1,4 @@
-# snep_saltmarsh
+# Estimating the Monetary and Nonmonetary Benefits of Salt Marsh in the SNEP Region
 
 In support of the Environmental Protection Agency (EPA), the Great Lakes Environmental Center’s (GLEC) subcontractor, Eastern Research Group, Inc. (ERG), used the Sea Level Affecting Marshes Model (SLAMM) to examine how three salt marshes in Southeast New England protect surrounding communities from projected sea level rise and storm surge. 
 
@@ -43,6 +43,9 @@ Workbooks to calculate estimated damages and severity of inundation to land and 
 | Impervious Surfaces | RI-2| RI Impervious Surface | [RIGIS](https://www.rigis.org/maps/ce2cb6f8f7b045fe800cdd4e281dfb64/explore) |
 | Impervious Surfaces | MA-2 and CC-1 | MA Impervious Surface | [Massachusetts Executive Office of Energy and Environmental Affairs](https://hub.arcgis.com/maps/1b2efe6d7b144fcf82376692d3de304b/explore) |
 | Storm Surge  | All marshes | The Sea Lake and Overland Surges from Hurricanes (SLOSH) model | [NOAA](https://www.nhc.noaa.gov/nationalsurge/) |
+| Historic Sea Level Rise | All marshes | Relative Sea Level Trends | [NOAA](https://tidesandcurrents.noaa.gov/sltrends/) |
+| MTL-NAVD88 | All marshes | Tidal Datums | [NOAA](https://tidesandcurrents.noaa.gov/stations.html?type=Datums) |
+| Salt Elevation | All Marshes | Water Levels | [NOAA](https://tidesandcurrents.noaa.gov/stations.html?type=Water+Levels) |
 
 ### Data Sources for Inundation Analysis
 
